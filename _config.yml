@@ -19,14 +19,14 @@ exclude:
 course: "CMPTGCS 20"
 qtr: "W20"
 qxx: "w20"
-instructor: "Conrad"
-quarter: "Winter 2020"
+instructor: "Karaorman"
+quarter: "Spring 2020"
 
 
-name: "CMPTGCS 20, W20, Conrad"
-github_url: https://github.com/ucsb-cs8/w20-ccs
-baseurl: "/w20-ccs"
-url: "https://ucsb-cs8.github.io/w20-ccs"
+name: "CMPTGCS 20, S20, Conrad"
+github_url: https://github.com/ucsb-cs8/s20-ccs
+baseurl: "/s20-ccs"
+url: "https://ucsb-cs8.github.io/s20-ccs"
 
 
 start_week: 1
@@ -37,15 +37,15 @@ sections:
 
 cal_dates: >
   [                                                                            
-    {"label":"W20 begins", "date":"2020-01-06" },              
+    {"label":"S20 begins", "date":"2020-01-06" },              
     {"label":"Univ Holiday", "date":"2020-01-20" },                            
     {"label":"Univ Holiday", "date":"2020-02-17" },                            
     {"label":"Drop w/o W", "date":"2020-02-03" },                            
     {"label":"DST starts", "date":"2020-03-08" },                            
     {"label":"Classes end", "date":"2020-03-13" },                    
-    {"label":"W20 finals start", "date":"2020-03-14" },                        
-    {"label":"W20 finals end", "date":"2020-03-20" },                          
-    {"label":"W20 qtr ends", "date":"2020-03-20" }                              
+    {"label":"S20 finals start", "date":"2020-03-14" },                        
+    {"label":"S20 finals end", "date":"2020-03-20" },                          
+    {"label":"S20 qtr ends", "date":"2020-03-20" }                              
   ] 
 
 

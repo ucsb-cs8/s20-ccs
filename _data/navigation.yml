@@ -27,6 +27,9 @@ offerings:
    url: /	
    baseurl: /w20-ccs
    items:
+      - title: "S20 CCS"
+        url: /
+        baseurl: /s20-ccs
       - title: "W20"
         url: /
         baseurl: /w20
