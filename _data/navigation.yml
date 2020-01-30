@@ -23,9 +23,9 @@ main_dropdown:
 
 
 offerings:
-   title: "W20 CCS"
+   title: "S20 CCS"
    url: /	
-   baseurl: /w20-ccs
+   baseurl: /s20-ccs
    items:
       - title: "S20 CCS"
         url: /
