@@ -5,7 +5,7 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-cs8.github.io # the base hostname & protocol for your site
-baseurl: /w19-conrad  # the subpath of your site, e.g. "/blog"
+baseurl: /s20-ccs  # the subpath of your site, e.g. "/blog"
 
 
 include:
@@ -17,8 +17,8 @@ exclude:
   - .bundle
 
 course: "CMPTGCS 20"
-qtr: "W20"
-qxx: "w20"
+qtr: "S20"
+qxx: "s20"
 instructor: "Karaorman"
 quarter: "Spring 2020"
 

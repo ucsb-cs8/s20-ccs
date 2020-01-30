@@ -1,9 +1,8 @@
 ---
-title: "CMPTGCS 20, W19, Conrad"
+title: "CMPTGCS 20, S20, Karaorman"
 ---
 
-
-## {{site.course}} {{site.quarter}}, Conrad
+## {{site.course}} {{site.quarter}}, {{site.instructor}}
 ## CCS Computing for Non-Majors
 
 <br>
