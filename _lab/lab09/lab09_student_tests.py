@@ -20,7 +20,7 @@ from lab09 import recursiveSubstring
 def test_recursiveSubstring_0():
     assert recursiveSubstring("CS8", "CS") == True
 
-# Your tests for recursiveDigitSum...
+# Your tests for recursiveSubstring...
 
 ####################
 from lab09 import recursiveReverseList
