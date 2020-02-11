@@ -36,8 +36,9 @@ In this lab, you will need to create two files:
 
 Starter code is provided for you and are located at (you may need to refresh the page if the links do not load immediately):
 
-* [lab09.py](https://github.com/ucsb-ccs-cs20-s18/ucsb-ccs-cs20-s18.github.io/blob/master/_lab/lab09/lab09.py)
-* [lab09.py](https://github.com/ucsb-ccs-cs20-s18/ucsb-ccs-cs20-s18.github.io/blob/master/_lab/lab09/lab09_student_tests.py)
+* [lab09.py](https://github.com/ucsb-cs8/s20-ccs/blob/master/_lab/lab09/lab09.py)
+
+* [lab09\_student\_tests.py](https://github.com/ucsb-cs8/s20-ccs/blob/master/_lab/lab09/lab09_student_tests.py)
 
 
 You will complete the portions in the starter code by doing the following:
