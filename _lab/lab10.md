@@ -29,8 +29,8 @@ In this lab, you will need to create two files:
 
 Starter code is provided for you and is located at the files below (you may need to refresh the page if the links do not load immediately):
 
-* [{{page.num}}.py](https://github.com/ucsb-cs8-s18/ucsb-cs8-s18.github.io/blob/master/_lab/lab10/lab10.py)
-* [{{page.num}}\_tests.py](https://github.com/ucsb-cs8-s18/ucsb-cs8-s18.github.io/blob/master/_lab/lab10/lab10_tests.py)
+* [{{page.num}}.py](https://github.com/ucsb-cs8/s20-ccs/blob/master/_lab/lab10/lab10.py)
+* [{{page.num}}\_tests.py](https://github.com/ucsb-cs8/s20-ccs/blob/master/_lab/lab10/lab10_tests.py)
 
 For most of the functions the started code and the tests will be enough for you to know what code you are supposed to write.
 

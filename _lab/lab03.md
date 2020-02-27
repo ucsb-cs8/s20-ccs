@@ -316,6 +316,16 @@ Here is an example of a function definition for countSpaces along with some test
 
 Note that this function works correctly as long as we give it a string as its argument.
 
+Below might be the first time you've seen the += operator.  What it does, is that
+```
+count += 1
+```
+is logically equivalent to
+```
+count = count + 1
+```
+allowing your code to be just a little bit more concise.
+
 ```
 def countSpaces(someString):
     "return the number of spaces in the string"
